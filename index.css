@@ -1,0 +1,45 @@
+body{
+	background-color: forestgreen;
+	display: flex;
+}
+
+h1{
+	background-color: darkcyan;
+	color: goldenrod;
+	font-style: italic;
+	text-align: center;
+	align-content: center;
+	padding-top: 50px;
+	height: 200px;
+	text-shadow: 100px;
+}
+
+h2{
+	background-color: purple;
+	color: royalblue;
+	font-style: oblique;
+	text-align: center;
+	align-content: center;
+	padding-top: 60px;
+	height: 200px;
+}
+
+h3{
+	background-color: yellow;
+	color: purple;
+	font-style: italic;
+	text-align: center;
+	align-content: center;
+	padding-top: 60px;
+	height: 200px;
+}
+
+h4{
+	background-color: indianred;
+	color: greenyellow;
+	font-style: oblique;
+	text-align: center;
+	align-content: center;
+	padding-top: 60px;
+	height: 200px;
+}
